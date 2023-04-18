@@ -1,4 +1,19 @@
+title: Super Ku
+author: 
+  name: Jinku Cui
+  email: cuijinku@hotmail.com
+
+# The `>` after `description:` means to ignore line-breaks until next key.
+# If you want to omit the line-break after the end of text, use `>-` instead.
+description: >
+  A cyber mind palace for memorizing thoughts, solutions, inspiration, and unbridled imagination,
+  life wisedom, book review, etc.
+
+
+# Building settings
+
 theme: minima
-title: Ku blog
-author: Jinku Cui
-description: A cyber mind palace for memorizing thoughts, solutions, inspiration, and unbridled imagination, etc.
+
+minima:
+  skin: auto
+

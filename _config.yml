@@ -1,7 +1,6 @@
 title: Cyber Mind Palace
-author:
-  name: Nick Cui
-  email: your-email@domain.com
+
+author: Nick Cui
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.

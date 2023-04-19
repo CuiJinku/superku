@@ -51,4 +51,4 @@ date: 2023-04-19
 * [Guiguan: Huang and Yang's teacher](https://www.zhihu.com/question/397548354)
 
 >  Cross citation and paper vomiting
-![Webcache of Guan Gui's Google scholar page](../../..//images/guiguan.png)
+![Webcache of Guan Gui's Google scholar page](../../../images/guiguan.png)

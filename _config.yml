@@ -12,7 +12,3 @@ description: >
 # Building settings
 
 theme: minima
-
-minima:
-  skin: dark
-

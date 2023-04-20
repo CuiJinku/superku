@@ -1,47 +1,14 @@
-remote_theme: https://github.com/poole/hyde
+title: Cyber Mind Palace
 
-plugins:
-  - jekyll-gist
-  - jekyll-sitemap
-  - jekyll-seo-tag
-
-# Dependencies
-markdown:         kramdown
-highlighter:      pygments
-
-# Permalinks
-permalink:        pretty
-relative_permalinks: true
-
-# Setup
-title:            Cyber Mind Palace
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
-baseurl:          /
-
-author:
-  name:           'Nick Cui'
-  url:            https://twitter.com/mdo
-
-paginate:         5
-
-# Custom vars
-version:          2.1.0
-
-github:
-  repo:           https://github.com/poole/hyde
-
-# title: Cyber Mind Palace
-
-# author: Nick Cui
+author: Nick Cui
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
-# description: >
-#   A cyber mind palace for memorizing thoughts, solutions, inspiration, and unbridled imagination,
-#   life wisedom, book review, etc.
+description: >
+  A cyber mind palace for memorizing thoughts, solutions, inspiration, and unbridled imagination,
+  life wisedom, book review, etc.
 
 
 # Building settings
 
+remote_theme: https://github.com/jekyll/minima

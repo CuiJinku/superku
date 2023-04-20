@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Academic Scandals"
-categories: misc
 ---
 
 # 2018

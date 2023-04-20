@@ -14,4 +14,4 @@ description: >
 remote_theme: https://github.com/jekyll/minima
 
 minima:
-  skin: auto
+  skin: dark

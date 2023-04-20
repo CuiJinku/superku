@@ -1,6 +1,7 @@
 ---
+layout: post
 title: "Academic Scandals"
-date: 2023-04-19
+categories: misc
 ---
 
 # 2018

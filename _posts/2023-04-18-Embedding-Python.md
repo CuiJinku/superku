@@ -1,6 +1,7 @@
 ---
+layout: post
 title: "Embedding Python"
-date: 2023-04-18
+categories: tech
 ---
 
 This blog demonstrates how to write cmake files to ebmedding Python3 in your applications.

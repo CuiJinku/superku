@@ -1,6 +1,11 @@
 ---
+layout: post
 title: "Reflections Triggered by Binary Search Algorithm"
-date: 2023-04-19
+categories: junk
+author:
+- Nick Cui
+- Luna
+meta: "Springfield"
 ---
 
 # An appropriate way to teach Binary Search

@@ -11,6 +11,8 @@ description: >
 
 # Building settings
 
+markdown: kramdown
+
 remote_theme: https://github.com/jekyll/minima
 
 minima:

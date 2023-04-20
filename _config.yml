@@ -11,4 +11,4 @@ description: >
 
 # Building settings
 
-theme: minima
+remote_theme: minima

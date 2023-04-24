@@ -69,7 +69,7 @@ The position of `__attribute__` matters. In the above example, we can either put
 
 The combination of `DEBUG` macro and `unused` attribute:
 
-```
+{% highlight c %}
 /* mypid.c */
 
 /*
@@ -100,7 +100,7 @@ int main(int argc __attribute__((unused)), char **argv)
 
 	return 0;
 }
-```
+{% endhighlight %}
 
 The program only uses the variable `mypid` when `DEBUG` option is enabled. If the developer did not enable the `DEBUG` option, the `__attribute__ ((unused))` suppressed the warning.
 

@@ -23,7 +23,7 @@ The following content are based on that essay: [Using GNU C \_\_attribute\_\_](h
 
 It is not always possible to remove ununsed variables or parameters.
 
-```C
+{% highlight c %}
 /* test.c */
 
 /* 
@@ -41,10 +41,10 @@ int main(int argc, char **argv) {
     printf("program name is %s\n", program_name);
     return 0;
 }
-```
+{% endhighlight %}
 The warning can be eliminated with `__attribute__ unused`
 
-```C
+{% highlight c %}
 #include <stdio.h>
 
 int main( int argc __attribute__((unused)), char **argv) {
@@ -53,7 +53,7 @@ int main( int argc __attribute__((unused)), char **argv) {
     printf("program name is %s\n", program_name);
     return 0;
 }
-```
+{% endhighlight %}
 
 According to the doc [Options to Request or Suppress Warnings](https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-W), the compile option `-Wall` and `-Wextra` are both required to produce the warning.
 
@@ -69,7 +69,7 @@ The position of `__attribute__` matters. In the above example, we can either put
 
 The combination of `DEBUG` macro and `unused` attribute:
 
-```C
+{% highlight c %}
 /* mypid.c */
 
 /*
@@ -100,7 +100,7 @@ int main(int argc __attribute__((unused)), char **argv)
 
 	return 0;
 }
-```
+{% endhighlight %}
 
 The program only uses the variable `mypid` when `DEBUG` option is enabled. If the developer did not enable the `DEBUG` option, the `__attribute__ ((unused))` suppressed the warning.
 

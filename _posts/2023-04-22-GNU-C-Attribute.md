@@ -59,7 +59,7 @@ According to the doc [Options to Request or Suppress Warnings](https://gcc.gnu.o
 
 The `-Wextra` option enables the `-Wunused-parameter (only with -Wunused or -Wall)` warnings flags. We can use `-Wunused-parameter` instead.
 
-The position of `__attribute__` matters. In the above example, we can either put the `__attribute__ ((unused))` before or after the parameter. However, it might be different if we want to add attribute to variables[^va] or functions[^fa][^cfa].
+The position of `__attribute__` matters. In the above example, we can either put the `__attribute__ ((unused))` before or after the parameter. However, it might be different if we want to add attribute to variables [^va] or functions [^fa] [^cfa].
 
 
 The combination of `DEBUG` macro and `unused` attribute:
@@ -105,11 +105,11 @@ The program only uses the variable `mypid` when `DEBUG` option is enabled. If th
 
 
 
-[^va][Variable attributes](https://www.ibm.com/docs/en/i/7.1?topic=declarators-variable-attributes)
+[^va]: [Variable attributes](https://www.ibm.com/docs/en/i/7.1?topic=declarators-variable-attributes)
 
-[^fa][Function attributes](https://gcc.gnu.org/onlinedocs/gcc/Attribute-Syntax.html#Attribute-Syntax)
+[^fa]: [Function attributes](https://gcc.gnu.org/onlinedocs/gcc/Attribute-Syntax.html#Attribute-Syntax)
 
-[^cfa][Common Function Attributes](https://gcc.gnu.org/onlinedocs/gcc/Common-Function-Attributes.html#Common-Function-Attributes)
+[^cfa]: [Common Function Attributes](https://gcc.gnu.org/onlinedocs/gcc/Common-Function-Attributes.html#Common-Function-Attributes)
 
 
 

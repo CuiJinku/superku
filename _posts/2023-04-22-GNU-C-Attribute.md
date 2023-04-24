@@ -61,6 +61,11 @@ The `-Wextra` option enables the `-Wunused-parameter (only with -Wunused or -Wal
 
 The position of `__attribute__` matters. In the above example, we can either put the `__attribute__ ((unused))` before or after the parameter. However, it might be different if we want to add attribute to variables [^va] or functions [^fa] [^cfa].
 
+[^va]: [Variable attributes](https://www.ibm.com/docs/en/i/7.1?topic=declarators-variable-attributes)
+[^fa]: [Function attributes](https://gcc.gnu.org/onlinedocs/gcc/Attribute-Syntax.html#Attribute-Syntax)
+[^cfa]: [Common Function Attributes](https://gcc.gnu.org/onlinedocs/gcc/Common-Function-Attributes.html#Common-Function-Attributes)
+
+
 
 The combination of `DEBUG` macro and `unused` attribute:
 
@@ -102,14 +107,6 @@ The program only uses the variable `mypid` when `DEBUG` option is enabled. If th
 
 
 
-
-
-
-[^va]: [Variable attributes](https://www.ibm.com/docs/en/i/7.1?topic=declarators-variable-attributes)
-
-[^fa]: [Function attributes](https://gcc.gnu.org/onlinedocs/gcc/Attribute-Syntax.html#Attribute-Syntax)
-
-[^cfa]: [Common Function Attributes](https://gcc.gnu.org/onlinedocs/gcc/Common-Function-Attributes.html#Common-Function-Attributes)
 
 
 

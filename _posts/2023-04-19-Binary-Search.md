@@ -3,7 +3,7 @@ layout: post
 title: "Education on Binary Algorithm"
 ---
 
-# An appropriate way to teach Binary Search
+**An appropriate way to teach Binary Searcha**
 
 When I was reading the 1st chapter of *Genetic Algorithms with Python*, the scene of the algorithm class appeared in my head. I was a sophomore at that time.
 

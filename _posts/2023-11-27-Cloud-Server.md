@@ -15,5 +15,8 @@ The exploration now turns my attention to the **Gaggia Espresso Machine**. ![pic
 
 When it comes to coffee grinders, I found two potential choices:
 
-1. Ode Brew Grinder Gen 2
-2. Sette :tm: &reg
+1. Model Ode Brew Grinder Gen 2 from **FELLOW**; ![picture of ode brew ginder gen 2](../../../images/ode-brew-grinder-gen-2.png)
+2. Model **Sette&trade; 270** from **Baratza&reg;** ![picture of sette 270 grinder](../../../images/sette-270.png)
+
+
+My roommate is more experienced than me in coffee hardwares. He bought both the **Gaggia Classic Evo Pro** and **Sette&trade; 270**. He has already gone through the pitfalls. As for the other grinder, **2nd gen ode brew grinder**, it becomes my alternative choice because I have seen it in a coffee store locates near to the Shenandoah National Park. The design of this coffee grinder really captivates me!

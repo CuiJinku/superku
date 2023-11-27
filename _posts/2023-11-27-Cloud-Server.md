@@ -20,3 +20,5 @@ When it comes to coffee grinders, I have narrowed my choices down to two:
 
 
 My roommate, who is more experienced in coffee hardware, has both both the **Gaggia Classic Evo Pro** and the **Sette&trade; 270**. He has already gone through the pitfalls. As for the other grinder, the **2nd gen ode brew grinder**, it has become my alternative choice. I came across it in a coffee store locates near Shenandoah National Park. The design of this coffee grinder really captivates me!
+
+The Gaggia Classic Evo is an excellent choice for a first coffee machine, and there are definitely more professional options available when an upgrade is needed! I will update the post as I dive deeper into the topic.

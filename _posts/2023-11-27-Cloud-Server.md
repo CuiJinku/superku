@@ -1,6 +1,8 @@
-Cloud Server
-
-# Shopping wisely
+---
+layout: post
+title: "Shopping wisely"
+date: 2023-11-27
+---
 
 ## Coffee machines
 

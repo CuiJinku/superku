@@ -97,7 +97,7 @@ There are some lighter brands:
 <table class="cigar-brand-table">
   <tr>
     <td>
-        <img src="../../../images/logo_dunpont.png" alt="S.T. Dunpont logo"/>
+        <img src="../../../images/logo_dupont.png" alt="S.T. Dupont logo"/>
     </td>
     <td>
         <img src="../../../images/logo_dunhill.svg" alt="Dunhill logo"/>
@@ -116,7 +116,7 @@ There are some lighter brands:
     <td>
         <img src="../../../images/logo_colibri.png" alt="Colibri lighter logo" />
     </td>
-    <td>
+    <td style="background-color: black;">
         <img src="../../../images/logo_tonino_lamborghini.png" alt="Tonino Lamborghini lighter logo" />
     </td>
     <td>

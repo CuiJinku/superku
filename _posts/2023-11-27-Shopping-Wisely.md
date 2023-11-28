@@ -11,41 +11,29 @@ During Black Friday in 2023, I was tempted to buy a mass-market coffee machine, 
 <!-- ![picture of the Breville Barista Express Espresso Machine, BES870XL](../../../images/BES870XL_Transparent_1300x1300.png)  -->
 
 <style>
-    .full-width-table {
+    .coffee-hardware-table {
         width: 100%;
         table-layout: fixed;
     }
 
-    .full-width-table td {
+    .coffee-hardware-table td {
         width: 25%;
     }
 </style>
 
-<table class="full-width-table">
+<table class="coffee-hardware-table">
   <tr>
     <td>
-        <figure>
         <img src="../../../images/BES870XL_Transparent_1300x1300.png" alt="Breville Barista Express Espresso Machine"/>
-        <figcaption>BES870XL</figcaption>
-        </figure>
     </td>
     <td>
-        <figure>
         <img src="../../../images/NewClassic_Int_Varianti_Colori_Gaggia_2023-copia.png" alt="Gaggia Espresso Machine"/>
-        <figcaption>Gaggia Classic Evo</figcaption>
-        </figure>
     </td>
     <td>
-        <figure>
         <img src="../../../images/ode-brew-grinder-gen-2.png" alt="Ode brew grinder" />
-        <figcaption>Ode Brew Grinder Gen 2</figcaption>
-        </figure>
     </td>
     <td>
-        <figure>
         <img src="../../../images/sette-270.png" alt="sette 270 grinder" />
-        <figcaption>Sette&trade; 270</figcaption>
-        </figure>
     </td>
   </tr>
 </table>
@@ -94,6 +82,37 @@ There are some lighter brands:
 * Zippo -- USA
 * Lubinski -- Italy. Sub-brands include: Colibri, Tonino Lamborghini
 * Guevara -- Cuba. [Guevara Lux Online Store](https://guevaralux.com)
+
+<style>
+    .cigar-brand-table {
+        width: 100%;
+        table-layout: fixed;
+    }
+
+    .cigar-brand-table td {
+        width: 20%;
+    }
+</style>
+
+<table class="cigar-brand-table">
+  <tr>
+    <td>
+        <img src="../../../images/logo_black_cut_2.png" alt="S.T. Dunpont logo"/>
+    </td>
+    <td>
+        <img src="../../../images/dunhill.svg" alt="dunhill logo"/>
+    </td>
+    <td>
+        <img src="../../../images/zippo_logo.png" alt="zippo logo" />
+    </td>
+    <td>
+        <img src="../../../images/logoLubinski-testa.png" alt="Lubinski logo" />
+    </td>
+    <td>
+        <img src="../../../images/Cohiba_cigar_logo.png" alt="Cohiba cigar logo" />
+    </td>
+  </tr>
+</table>
 
 
 ### Cutters

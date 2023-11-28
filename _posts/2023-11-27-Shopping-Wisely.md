@@ -24,21 +24,23 @@ During Black Friday in 2023, I was tempted to buy a mass-market coffee machine, 
 <table class="full-width-table">
   <tr>
     <td>
-        <img src="../../../images/BES870XL_Transparent_1300x1300.png" alt="drawing"/>
+        <img src="../../../images/BES870XL_Transparent_1300x1300.png" alt="Breville Barista Express Espresso Machine"/>
+        <figcaption>BES870XL</figcaption>
     </td>
     <td>
-        <img src="../../../images/NewClassic_Int_Varianti_Colori_Gaggia_2023-copia.png" alt="drawing"/>
+        <img src="../../../images/NewClassic_Int_Varianti_Colori_Gaggia_2023-copia.png" alt="Gaggia Espresso Machine"/>
+        <figcaption>Gaggia Classic Evo</figcaption>
     </td>
     <td>
-        <img src="../../../images/ode-brew-grinder-gen-2.png" alt="drawing" />
+        <img src="../../../images/ode-brew-grinder-gen-2.png" alt="Ode brew grinder" />
+        <figcaption>Ode Brew Grinder Gen 2</figcaption>
     </td>
     <td>
-        <img src="../../../images/sette-270.png" alt="drawing" />
+        <img src="../../../images/sette-270.png" alt="sette 270 grinder" />
+        <figcaption>Sette&trade; 270</figcaption>
     </td>
   </tr>
 </table>
-
-
 
 The price of this coffee machine dropped from $699.95$ to $559.95$ on Black Friday. Moreover, you could purchase the same model from Target for an out-of-door price of around $410$, thanks to two coupons offering $15\%$ and $20\%$ discounts, respectively. This is was a very attractice discount!
 

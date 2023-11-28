@@ -116,7 +116,7 @@ There are some lighter brands:
     <td>
         <img src="../../../images/logo_colibri.png" alt="Colibri lighter logo" />
     </td>
-    <td style="background-color: black;">
+    <td style="background-color:#FFFFFF">
         <img src="../../../images/logo_tonino_lamborghini.png" alt="Tonino Lamborghini lighter logo" />
     </td>
     <td>

@@ -9,7 +9,7 @@ date: 2023-11-27
 During Black Friday in 2023, I was tempted to buy a mass-market coffee machine, **the Breville Barista Express Espresso Machine, BES870XL**. 
 
 <!-- ![picture of the Breville Barista Express Espresso Machine, BES870XL](../../../images/BES870XL_Transparent_1300x1300.png)  -->
-<img src="../../../images/BES870XL_Transparent_1300x1300.png" alt="drawing" witth="200"/>
+<img src="../../../images/BES870XL_Transparent_1300x1300.png" alt="drawing" witth="100"/>
 
 
 The price of this coffee machine dropped from $699.95$ to $559.95$ on Black Friday. Moreover, you could purchase the same model from Target for an out-of-door price of around $410$, thanks to two coupons offering $15\%$ and $20\%$ discounts, respectively. This is was a very attractice discount!

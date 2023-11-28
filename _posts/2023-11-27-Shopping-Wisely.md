@@ -90,26 +90,37 @@ There are some lighter brands:
     }
 
     .cigar-brand-table td {
-        width: 20%;
+        width: 25%;
     }
 </style>
 
 <table class="cigar-brand-table">
   <tr>
     <td>
-        <img src="../../../images/logo_black_cut_2.png" alt="S.T. Dunpont logo"/>
+        <img src="../../../images/logo_dunpont.png" alt="S.T. Dunpont logo"/>
     </td>
     <td>
-        <img src="../../../images/dunhill.svg" alt="dunhill logo"/>
+        <img src="../../../images/logo_dunhill.svg" alt="Dunhill logo"/>
     </td>
     <td>
-        <img src="../../../images/zippo_logo.png" alt="zippo logo" />
+        <img src="../../../images/logo_zippo.png" alt="Zippo logo" />
     </td>
     <td>
-        <img src="../../../images/logoLubinski-testa.png" alt="Lubinski logo" />
+        <img src="../../../images/logo_lubinski.png" alt="Lubinski logo" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+        <img src="../../../images/logo_cohiba.png" alt="Cohiba cigar logo" />
     </td>
     <td>
-        <img src="../../../images/Cohiba_cigar_logo.png" alt="Cohiba cigar logo" />
+        <img src="../../../images/logo_colibri.png" alt="Colibri lighter logo" />
+    </td>
+    <td>
+        <img src="../../../images/logo_tonino_lamborghini.png" alt="Tonino Lamborghini lighter logo" />
+    </td>
+    <td>
+        <img src="../../../images/logo_manfrotto.png" alt="Tonino Lamborghini lighter logo" />
     </td>
   </tr>
 </table>

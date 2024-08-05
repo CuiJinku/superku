@@ -57,7 +57,55 @@ cargo doc --open
 
 ### 3.1 Variables and Mutability
 
+* constants & variables
+    - `mut` cannot be used with constants
+    - `const` keyword instead of `let`
+    - type of the value *must* be annotated
+    - costants may be set only to a constant expression
 
+* Shadowing (`let`) & `mut` a variable
+    - compile-time error without `let`; 
+    - `let` can change the data type
+
+### 3.2 Data Types
+
+#### Scalar
+
+* integers
+
+
+    | Length | Signed | Unsigned |
+    |:------ | :----- | :------- |
+    | 8-bit  | `i8`   | `u8`     |
+    | 16-bit | `i16`  | `u16`    |
+    | 32-bit | `i32`  | `u32`    |
+    | 64-bit | `i64`  | `u64`    |
+    | 128-bit| `i128` | `u128`   |
+    | arch   | isize  | usize    |
+    
+    
+    | Number literals | Example |
+    | :-------------- | :------ |
+    | Decimal         | `98_222`|
+    | Hex             | `0xff`  |
+    | Octal           | `0o77`  |
+    | Binary          | `0b1111_0000`|
+    | Byte(`u8` only) | `b'A'`  |
+
+    - `panicking`
+    - `two's complement wrapping`
+    - `wrapping_*`
+    - `checked_*`
+    - `overflowing_*`
+    - `saturating_*`
+
+
+* floating-point numbers
+* Booleans
+* characters
+
+
+#### Compound
 
 ## Vocabulary
 * arcane

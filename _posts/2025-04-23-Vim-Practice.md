@@ -61,7 +61,7 @@ Start with one line:
 
 2. Press `qq` to start recording a macro into register `q`
 
-3. Press the following key sequence carefully:
+3. Press the following key sequence **carefully**:
 
 ```vim
 Y               " Yank the current line
@@ -74,4 +74,13 @@ Ctrl-a          " Increment the last number (assumes cursor lands on the number)
 ▶️ Run the macro 35 more times:
 ```vim
 35@q
+```
+This tells Vim to repeat macro `q` 35 times, giving you:
+
+```vim
+##### 1.1.1
+##### 1.1.2
+##### 1.1.3
+...
+##### 1.1.36
 ```
